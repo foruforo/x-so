@@ -22,3 +22,4 @@ google code（要慢慢转到github上来了，现在大家都在github上混）
 贴个图先：
 
 
+(http://github.com/foruforo/x-so/raw/master/GTD.jpeg)
